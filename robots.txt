@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://costamesapestcontrolco.com/sitemap.xml
